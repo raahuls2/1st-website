@@ -1,0 +1,134 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    padding-top: 12px;
+    width: 50%;
+    float: left;
+}
+.logo-link{
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 178px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.login-label{
+    color: #fff;
+    font-size: 15px;
+}
+.login-controls{
+    padding-left: 50px;
+}
+.third-sec{
+    color: white;
+    text-decoration: none;
+}
+.forgotten{
+    color: #9cb4d8;
+    text-decoration: none;
+}
+.sub-btn{
+    background: #4267b2;
+    color: #fff;
+    border-color: #28479d;
+    cursor: pointer;
+    height: 20px;
+}
+.sub-btn:hover{
+    background:#3b5998;
+}
+.left-sec{
+    width: 50%;
+    float: left;
+    padding-left: 130px;
+    padding-top: 52px;
+}
+.right-sec{
+    width: 39%;
+    float: left;
+}
+.main-body{
+    background: linear-gradient(white, #abb2d6);
+    width: 100%;
+    height: 610px;
+}
+.image{
+    width: 581px;
+}
+#create{
+    font-weight: bolder;
+    font-size: 42px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+#para2{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.names{
+    border-radius: 4px;
+    border-color: #fff;
+    height: 24px;
+}
+.mail-and-password{
+    width: 350px;
+    margin-top: 10px;
+    height: 24px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border-color: #fff;
+}
+.dob{
+    border-radius: 4px;
+    border-color: #fff;
+    margin-top: -25px;
+}
+#dob-head{
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #73708c;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+#gen-hed{
+    font-weight: bold;
+    color: #73708c;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.small-para{
+    font-size: 12px;
+}
+.submit{
+    background: #1e6913 ;
+    border: greenyellow;
+    margin-top: 21px;
+    width: 155px;
+    height: 33px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+}
+.link{
+    text-decoration: none;
+}
+#lin{
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+.gender{
+    font-family: Arial, Helvetica, sans-serif ;
+}
